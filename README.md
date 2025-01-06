@@ -31,7 +31,7 @@ Each project is located in its own folder, with a README file to provide you wit
 - [Feature 2 of the project]
 
 **Technologies Used:**
-- [Library 1]
+- Pandas
 - [Library 2]
 - [Library 3]
 
