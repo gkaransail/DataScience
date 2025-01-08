@@ -32,7 +32,7 @@ Each project is located in its own folder, with a README file to provide you wit
 
 **Technologies Used:**
 - Pandas
-- [Library 2]
+- Numpy
 - [Library 3]
 
 **How to run:**
