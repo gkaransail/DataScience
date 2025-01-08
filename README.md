@@ -88,7 +88,7 @@ This repository contains projects that use a variety of tools and libraries, inc
 - TensorFlow / Keras (for deep learning projects)
 - Jupyter Notebook
 - SQL
-- [Other tools specific to the project]
+- R
 
 ## Setup & Installation
 
