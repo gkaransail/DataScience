@@ -33,7 +33,7 @@ Each project is located in its own folder, with a README file to provide you wit
 **Technologies Used:**
 - Pandas
 - Numpy
-- [Library 3]
+- Matplotlib
 
 **How to run:**
 - Follow the instructions in the project's subfolder to set up and run the code.
