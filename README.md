@@ -7,8 +7,8 @@ Welcome to the **Data Science Projects Repository**! This repository contains a 
 ## Table of Contents
 - [Overview](#overview)
 - [Projects](#projects)
-  - [Project 1: ChatBot
-  - [Project 2: [Project Name]](#project-2-project-name)
+  - Project 1: ChatBot
+  - Project 2: Housing Price Prediction
   - [Project 3: [Project Name]](#project-3-project-name)
 - [Technologies Used](#technologies-used)
 - [Setup & Installation](#setup-installation)
