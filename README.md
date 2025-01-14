@@ -9,7 +9,7 @@ Welcome to the **Data Science Projects Repository**! This repository contains a 
 - [Projects](#projects)
   - Project 1: ChatBot
   - Project 2: Housing Price Prediction
-  - [Project 3: [Project Name]](#project-3-project-name)
+  - [Project 3: Heart Disease Prediction
 - [Technologies Used](#technologies-used)
 - [Setup & Installation](#setup-installation)
 - [How to Contribute](#how-to-contribute)
