@@ -10,6 +10,7 @@ Welcome to the **Data Science Projects Repository**! This repository contains a 
   - Project 1: ChatBot
   - Project 2: Housing Price Prediction
   - Project 3: Heart Disease Prediction
+  - Project 4: Yfinance_Data_Analysis
 - [Technologies Used](#technologies-used)
 - [Setup & Installation](#setup-installation)
 - [How to Contribute](#how-to-contribute)
