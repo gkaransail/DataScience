@@ -12,6 +12,7 @@ Welcome to the **Data Science Projects Repository**! This repository contains a 
   - Project 3: Heart Disease Prediction
   - Project 4: Yfinance_Data_Analysis
   - Project 5:PILLOW for image processing.ipynb
+  - Project 6: Fake Email Detection.ipynb
 - [Technologies Used](#technologies-used)
 - [Setup & Installation](#setup-installation)
 - [How to Contribute](#how-to-contribute)
