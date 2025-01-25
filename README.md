@@ -15,7 +15,7 @@ Welcome to the **Data Science Projects Repository**! This repository contains a 
   - Project 6: Fake Email Detection.ipynb
   - Project 7: Linear Regression.ipynb
   - Project 8: Sentiment Analysis and Fake Email Detection.ipynb
-- [Technologies Used](#technologies-used)
+  - Project 9: Book recommendation.R
 - [Setup & Installation](#setup-installation)
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
