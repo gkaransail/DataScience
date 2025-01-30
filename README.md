@@ -16,6 +16,7 @@ Welcome to the **Data Science Projects Repository**! This repository contains a 
   - Project 7: Linear Regression.ipynb
   - Project 8: Sentiment Analysis and Fake Email Detection.ipynb
   - Project 9: Book recommendation.R
+  - Project 10: Prediction Heart diseases.R
 - [Setup & Installation](#setup-installation)
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
