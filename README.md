@@ -50,19 +50,8 @@ Each project is located in its own folder, with a README file to provide you wit
 **Objective:**  
 [Brief description of what this project aims to solve or explore.]
 
-**Key Features:**
-- [Feature 1 of the project]
-- [Feature 2 of the project]
 
-**Technologies Used:**
-- [Library 1]
-- [Library 2]
-- [Library 3]
 
-**How to run:**
-- Follow the instructions in the project's subfolder to set up and run the code.
-
----
 
 ### Project 3: [Project Name]
 **Objective:**  
