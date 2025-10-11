@@ -5,8 +5,8 @@
 Welcome to the **Data Science Projects Repository**! This repository contains a collection of various data science projects that cover a wide range of topics, including data preprocessing, exploratory data analysis (EDA), machine learning models, and deep learning applications. Each project is self-contained with its own dataset, scripts, and explanations.
 
 ## Table of Contents
-- [Overview](#overview)
-- [Projects](#projects)
+- 
+- Projects
   - Project 1: ChatBot
   - Project 2: Housing Price Prediction
   - Project 3: Heart Disease Prediction
