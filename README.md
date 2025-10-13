@@ -4,8 +4,7 @@
 
 Welcome to the **Data Science Projects Repository**! This repository contains a collection of various data science projects that cover a wide range of topics, including data preprocessing, exploratory data analysis (EDA), machine learning models, and deep learning applications. Each project is self-contained with its own dataset, scripts, and explanations.
 
-## Table of Contents
-- 
+## Table of Content
 - Projects
   - Project 1: ChatBot
   - Project 2: Housing Price Prediction
@@ -17,9 +16,6 @@ Welcome to the **Data Science Projects Repository**! This repository contains a 
   - Project 8: Sentiment Analysis and Fake Email Detection.ipynb
   - Project 9: Book recommendation.R
   - Project 10: Prediction Heart diseases.R
-- [Setup & Installation](#setup-installation)
-- [How to Contribute](#how-to-contribute)
-- [License](#license)
 
 ## Overview
 This repository is a collection of individual data science projects that aim to solve various real-world problems using data analysis and machine learning techniques. Whether you're a beginner or an experienced data scientist, you will find useful resources and code to explore, learn, and contribute to.
